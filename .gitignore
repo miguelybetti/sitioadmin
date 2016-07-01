@@ -8,7 +8,6 @@ Homestead.json
 /app
 /bootstrap
 /config
-/database
 /storage
 /test
 artisan
